@@ -1,0 +1,2 @@
+# magicgun
+Learning By Doing
